@@ -7,9 +7,8 @@
 
   <author>Yegui Du</author>
 
-  <license>BSD</license>
+  <license>GPL3</license>
 
-  <url type="website">https://bitbucket.org/HITSZ-NRSL/camshift</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
