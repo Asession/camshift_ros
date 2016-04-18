@@ -8,8 +8,6 @@ Camshift tracker
   
   The position and size have been normalized.
   
-  **Note:** For windows, you should install python first, then install opencv2 and numpy.
-  
 Usage:
 ------
     Give excute permission to camshift_node.py by
